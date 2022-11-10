@@ -1,0 +1,8 @@
+h1{
+	position: fixed;
+	background-color: #ccffff;
+}
+
+body{
+	background-image: url('imagesFolder/floral.png');
+}
